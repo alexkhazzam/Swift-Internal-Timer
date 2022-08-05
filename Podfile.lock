@@ -1,0 +1,16 @@
+PODS:
+  - CircularTimer (0.0.2)
+
+DEPENDENCIES:
+  - CircularTimer (~> 0.0)
+
+SPEC REPOS:
+  trunk:
+    - CircularTimer
+
+SPEC CHECKSUMS:
+  CircularTimer: 288afa3d28c846321bd0923fc499a276989e7893
+
+PODFILE CHECKSUM: 9eb36fc5ef83b74321915fb0135d6ee15b9ef86a
+
+COCOAPODS: 1.11.3

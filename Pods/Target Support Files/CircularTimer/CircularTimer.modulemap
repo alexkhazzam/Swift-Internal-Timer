@@ -1,0 +1,6 @@
+framework module CircularTimer {
+  umbrella header "CircularTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}
